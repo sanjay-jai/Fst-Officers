@@ -1,0 +1,5 @@
+{
+  "name": "Assembly Constituency",
+  "description": "A lookup tool for officers by Assembly Constituency (Taluk).",
+  "requestFramePermissions": []
+}
